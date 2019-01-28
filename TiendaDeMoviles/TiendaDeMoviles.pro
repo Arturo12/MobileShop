@@ -31,4 +31,6 @@ HEADERS += \
         mainwindow.h
 
 FORMS += \
-        mainwindow.ui
+        mainwindow.ui \
+    reparaciones.ui \
+    moviles.ui
